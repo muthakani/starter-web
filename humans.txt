@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- praveen -- <twitter>
+    praveen
+    praveensai@gmail.com
 
 # THANKS
 
